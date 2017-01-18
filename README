@@ -8,6 +8,10 @@ G to put a block (terrain modification only usable in F1 mode)
 A to put a door on the targeted block, 
 E to change the current targeted block to the selected one, 
 M for music on/off, the music changes with the textures, 
+P to change FOV in game
+O for options
+S to save your customized map
+O + alt to increase window size
 SPACE to fire, 
 enjoy :)
 
