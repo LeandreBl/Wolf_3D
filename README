@@ -1,5 +1,8 @@
+Epitech Wolf3D project
+
 Including, textures, sounds, doors, map creator in game, a map loader,
 ability to save your customs maps in a file, and of course a "minecraft"
+and anomalies, that you can destroy using your gun (char ":" or "9" in .wf file)
 mode using F1, 
 F2 for textures, 
 F3 for night/day, 
